@@ -1,30 +1,71 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:54639C,10:7776B3,30:9B86BD,75:E2BBE9,100:FFF7FC&height=120&section=header&text=&fontSize=0" width="100%"/>
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+<!-- Title -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=35&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello,+I'm+EunSoo+👋)](https://git.io/typing-svg)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delight-es&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=17153B&icon_color=433D8B&text_color=fff&title_color=C8ACD6&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=delight-es&show_icons=true&theme=radical&hide_border=true&bg_color=17153B&icon_color=433D8B&text_color=fff&title_color=C8ACD6&count_private=true" width=56% />
 </a>
-
+<!-- Grass -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=delight-es&theme=react-dark&bg_color=17153B&hide_border=true&line=FFF7FC&color=C8ACD6" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=delight-es&theme=react-dark&bg_color=131842&hide_border=true&line=E68369&color=FFF7FC" width=94%/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFF7FC,10:E2BBE9,30:54639C,75:E2BBE9,100:FFF7FC&height=50&section=footer&text=&fontSize=0" width="100%"/>
+<!-- stats, 백준 -->
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; width: 50%;">
+      <!-- stats --> 
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=delight-es&show_icons=true&theme=radical&hide_border=true&bg_color=F6DCAC&icon_color=DD761C&text_color=A67B5B&title_color=6F4E37&count_private=true" width="100%" style="display: block;" />
+      </a>
+    </td>
+    <td style="border: none; width: 50%;">
+      <!-- 백준 -->
+      <a href="https://solved.ac/delightes">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=delightes" width="100%" style="display: block;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!--
-**delight-es/delight-es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>     
+<!-- Info -->
+    
+### 🙇🏻‍♀️ Information
+<p>
+    🔭 My main interest is <b>Back-end</b> and <b>AI</b> Development.<br>
+    💻 My Primary Programming Languages are <b>JAVA</b> and <b>Python</b>.<br>
+</p>
 
-Here are some ideas to get you started:
+<div align=center>   
+<!-- 아이콘 -->
+<p>
+    <a href="https://velog.io/@delightes/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+    <a href="mailto:skfmf7878@naver.com" target="_blank"><img src="https://img.shields.io/badge/skfmf7878@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+</div>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- skill -->
+### 💪🏻 Skill
+<p>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br>  
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <br>
+</p>
+</div>
+
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+
+
+
+
+
