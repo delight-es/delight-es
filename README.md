@@ -15,7 +15,7 @@
     <td style="border: none; width: 50%;">
       <!-- stats --> 
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=delight-es&show_icons=true&theme=radical&hide_border=true&bg_color=F6DCAC&icon_color=DD761C&text_color=A67B5B&title_color=6F4E37&count_private=true" width="100%" style="display: block;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=delight-es&show_icons=true&theme=radical&hide_border=true&bg_color=FF6F91&icon_color=FEFEDF&text_color=FBEAFF&title_color=F9F871&count_private=true" width="100%" style="display: block;" />
       </a>
     </td>
     <td style="border: none; width: 50%;">
